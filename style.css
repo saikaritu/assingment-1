@@ -9,6 +9,8 @@ h1 {
 }
 section {
 	display: flex;
+	margin-top: 120px;
+	background-image: url(Frame58.png);
 }
 .half-part {
 	width: 60%;
@@ -31,4 +33,78 @@ section {
 	padding-bottom: 20px;
 	background-image: linear-gradient(red, orange);
 	color: white;
+}
+.another-half-part {
+	width: 70%;
+}
+.another-half-part img {
+	width: 400px;
+	padding-left: 50px;
+}
+.paragraph {
+	width: 40%;
+	padding-right: 300px;
+}
+.add-image {
+	background-image: url(Frame\ 58.jpg);
+}
+
+.button-2 {
+	text-decoration: none;
+	background-image: linear-gradient(pink, red);
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 20px;
+	border-radius: 5px;
+}
+.p-text {
+	padding-bottom: 80px;
+}
+.header-2 {
+	text-align: center;
+}
+.half-width {
+	width: 100%;
+	box-shadow: 10px 10px 10px 10px rgb(194, 184, 184);
+	margin-left: 5%;
+	margin-right: 5%;
+	border-radius: 30px;
+}
+.image-frst {
+	width: 100%;
+	border-radius: 10px;
+}
+.image-scnd {
+	width: 100%;
+	border-radius: 10px;
+}
+.image-thrd {
+	width: 100%;
+	border-radius: 10px;
+}
+.report {
+	text-align: center;
+	background-image: url(Project\ Cover4.png);
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: larger;
+	color: white;
+}
+.follower {
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-bottom: 200px;
+	margin-top: 500px;
+}
+footer p {
+	text-align: center;
+	background-color: yellowgreen;
+	margin-top: 100px;
+}
+.salads {
+	padding-left: 20px;
+	padding-right: 20px;
 }
